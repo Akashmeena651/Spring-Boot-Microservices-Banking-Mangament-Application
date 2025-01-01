@@ -76,7 +76,6 @@ Happy Banking! 🏦💰
 
 If you have any questions, feedback, or need assistance with this project, please feel free to reach out to me:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6361921186)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkulkarni1411@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashmeena651@gmail.com)
 
 We appreciate your interest in our project and look forward to hearing from you. Happy coding!
